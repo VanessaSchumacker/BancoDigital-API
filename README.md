@@ -14,31 +14,31 @@ Portanto, em cada funcionalidade será necessário validar o token informado.
 ### 2 - Fazer login:
 Autentica os usuários registrados, permitindo que eles acessem suas contas por meio de credenciais seguras.
 
-### Detalhar Perfil do Usuário Logado:
+### 3 - Detalhar Perfil do Usuário Logado:
 Fornece informações detalhadas sobre o perfil do usuário atualmente autenticado, apresentando dados como nome, e-mail e outras informações relevantes.
 
-### Editar Perfil do Usuário Logado:
+### 4 - Editar Perfil do Usuário Logado:
 Permite que os usuários autenticados atualizem suas informações de perfil conforme necessário.
 
-### Listar Categorias:
+### 5 - Listar Categorias:
 Retorna uma lista de categorias disponíveis para classificar transações financeiras, proporcionando uma organização eficiente.
 
-### Listar Transações:
+### 6 - Listar Transações:
 Apresenta uma lista de todas as transações financeiras associadas ao usuário logado, incluindo detalhes como valor, data e categoria.
 
-### Detalhar Transação:
+### 7 - Detalhar Transação:
 Oferece informações específicas sobre uma transação, permitindo uma visualização mais detalhada dos registros financeiros.
 
-### Cadastrar Transação:
+### 8 - Cadastrar Transação:
 Possibilita a adição de novas transações, especificando detalhes como valor, categoria e data.
 
-### Editar Transação:
+### 9 - Editar Transação:
 Permite a modificação de informações de transações previamente cadastradas.
 
-### Remover Transação:
+### 10 - Remover Transação:
 Exclui uma transação existente, proporcionando uma maneira fácil de corrigir registros.
 
-### Obter Extrato de Transações:
+### 11 - Obter Extrato de Transações:
 Gera um extrato consolidado de todas as transações associadas ao usuário, fornecendo uma visão abrangente das atividades financeiras.
 
 ### Funcionalidade Adicional (Extra):
